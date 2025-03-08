@@ -18,6 +18,6 @@ class FoodField(pygame.sprite.Sprite):
 
     def update(self, dt, player):
         if self.spawn_count < FOOD_AMOUNT:
-            position = (self.field[0](random.randrange(0, SCREEN_WIDTH/SNAKE_SIZE)), self.field[1](random.randrange(0, SCREEN_HEIGHT/SNAKE_SIZE)))
+            position = (self.field[0](random.randrange(0, SCREEN_WIDTH//SNAKE_SIZE)), self.field[1](random.randrange(0, SCREEN_HEIGHT//SNAKE_SIZE)))
             self.spawn(position)
             self.spawn_count += 1
