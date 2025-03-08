@@ -12,5 +12,5 @@
 ## Nu kan du downloade source code under release og putte det i din pygames mappe:
 ![image](https://github.com/user-attachments/assets/f5a29df9-5e00-4396-8cc3-1ef950974f5d)
 
-## Tilbage i Windows Powershell kan du naviger til snake mappen `cd Snake-1.0.0` eller hvis du kom til at lukke PowerShell `cd pygames\Snake-1.0.0` derefter skriv `python main.py` og tryk enter, spillet burde derefter starte op:
+## Tilbage i Windows Powershell kan du naviger til snake mappen `cd Snake-1.x.x` eller hvis du kom til at lukke PowerShell `cd pygames\Snake-1.x.x` derefter skriv `python main.py` og tryk enter, spillet burde derefter starte op:
 ![image](https://github.com/user-attachments/assets/f7f4f375-64bc-48e9-8a1c-fc43e8cd5d40)
